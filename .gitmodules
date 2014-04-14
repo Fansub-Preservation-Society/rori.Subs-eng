@@ -1,0 +1,9 @@
+[submodule "joint/Unlimited Translation Works"]
+	path = joint/Unlimited Translation Works
+	url = https://github.com/Fansub-Preservation-Society/joint_URW-eng
+[submodule "joint/FFFansubs"]
+	path = joint/FFFansubs
+	url = https://github.com/Fansub-Preservation-Society/joint_pomf-eng
+[submodule "joint/Underwater"]
+	path = joint/Underwater
+	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-rori-eng
